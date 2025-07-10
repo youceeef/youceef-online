@@ -6,7 +6,7 @@ export default function Home() {
           Coming Soon
         </h1>
         <p className="text-gray-300 text-xl">
-          Something amazing is in the works
+          E TITA FEL NANA . WEL NANA FI TITA
         </p>
       </div>
     </main>
