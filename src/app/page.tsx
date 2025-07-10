@@ -7,6 +7,7 @@ export default function Home() {
         </h1>
         <p className="text-gray-300 text-xl">
           E TITA FEL NANA . WEL NANA FI TITA
+          <br />
           <span className="text-blue-500">OBA A2A OBA OH</span>
         </p>
       </div>
